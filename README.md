@@ -18,7 +18,8 @@ Collection of programming samples from when I was in my Parallel Programming cla
 ## Threading Basics Directory
 | Project | Directory | 
 | - | - |
-|  Threading 1 | [Threading 1](https://github.com/Wuydts/Parallel_Programming/blob/master/Thread_Basics/Thread.c)|
+|  Threading Basics | [Threading Basics](https://github.com/Wuydts/Parallel_Programming/blob/master/Thread_Basics/Thread.c)|
+|  Threading Mutex & Barriers | [Mutex & Barriers](https://github.com/Wuydts/Parallel_Programming/blob/master/Thread_Basics/Mutex_and_Barrier.c)|
 
 
 
