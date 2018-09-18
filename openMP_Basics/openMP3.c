@@ -26,7 +26,6 @@ int main()
                         sleep(2);
                 printf("%2d by thread %2d\n", i, tid);
 
-//              #pragma omp critical
                 sum += i;
         }
         printf("Sum is %d \n", sum);
