@@ -22,6 +22,7 @@ Collection of programming samples from when I was in my Parallel Programming cla
 |  Threading Mutex & Barriers | [Mutex & Barriers](https://github.com/Wuydts/Parallel_Programming/blob/master/Thread_Basics/Mutex_and_Barrier.c)|
 
 ## openMP Basics Directory
+| Project | Directory |
 | - | - |
 |  openMP First Use | [openMP 1](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP1.c)|
 |  openMP Assigning TID | [openMP 2](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP2.c)|
