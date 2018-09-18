@@ -16,7 +16,6 @@ int main()
         int i = 0, tid, k, sum = 0;
         omp_set_num_threads (5);
 
-//      #pragma omp parallel for private(tid)
         #pragma omp parallel for
         for (i = 0; i < 13; ++i)
         {
