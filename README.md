@@ -4,7 +4,7 @@ Collection of programming samples from when I was in my Parallel Programming cla
 
 ## Directory Listings:
 
-[Forking_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Fork_Basics) | [Threading_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Thread_Basics) 
+[Forking_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Fork_Basics) | [Threading_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Thread_Basics) | [openMP_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/openMP_Basics)
 
 ## Forking Basics Directory
 | Project | Directory | 
@@ -21,6 +21,8 @@ Collection of programming samples from when I was in my Parallel Programming cla
 |  Threading Basics | [Threading Basics](https://github.com/Wuydts/Parallel_Programming/blob/master/Thread_Basics/Thread.c)|
 |  Threading Mutex & Barriers | [Mutex & Barriers](https://github.com/Wuydts/Parallel_Programming/blob/master/Thread_Basics/Mutex_and_Barrier.c)|
 
-
-
+## openMP Basics Directory
+| - | - |
+|  openMP First Use | [openMP 1](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP1.c)|
+|  openMP Assigning TID | [openMP 2](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP2.c)|
 
