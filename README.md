@@ -29,3 +29,5 @@ Collection of programming samples from when I was in my Parallel Programming cla
 |  openMP For Loop and TID | [openMP 3](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP3.c)|
 |  openMP Barrier and Single | [openMP 4](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP4.c)|
 |  openMP Sections | [openMP Sections](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/sections.c)|
+|  openMP Reduce 1 | [openMP Reduce 1](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/reduce1.c)|
+|  openMP Reduce 2 - Tracking | [openMP Reduce 2 - Tracking](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/reduce2.c)|
