@@ -28,3 +28,4 @@ Collection of programming samples from when I was in my Parallel Programming cla
 |  openMP Assigning TID | [openMP 2](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP2.c)|
 |  openMP For Loop and TID | [openMP 3](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP3.c)|
 |  openMP Barrier and Single | [openMP 4](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/openMP4.c)|
+|  openMP Sections | [openMP Sections](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/sections.c)|
