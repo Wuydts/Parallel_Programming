@@ -31,3 +31,4 @@ Collection of programming samples from when I was in my Parallel Programming cla
 |  openMP Sections | [openMP Sections](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/sections.c)|
 |  openMP Reduce 1 | [openMP Reduce 1](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/reduce1.c)|
 |  openMP Reduce 2 - Tracking | [openMP Reduce 2 - Tracking](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/reduce2.c)|
+|  openMP Reduce 3 - Static Scheduling | [openMP Reduce 3 - Static Scheduling](https://github.com/Wuydts/Parallel_Programming/tree/master/openMP_Basics)|
