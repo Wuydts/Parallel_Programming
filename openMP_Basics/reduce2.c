@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <omp.h>
-//Similar to reduce.c but this one limits the amount of threads and tracks what is happening with each one.
+//Similar to reduce1.c but this one limits the amount of threads and tracks what is happening with each one.
 int main()
 {
         int   i, n, chunk;
