@@ -4,7 +4,7 @@ Collection of programming samples from when I was in my Parallel Programming cla
 
 ## Directory Listings:
 
-[Forking_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Fork_Basics) | [Threading_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Thread_Basics) | [openMP_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/openMP_Basics)
+[Forking_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Fork_Basics) | [Threading_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/Thread_Basics) | [openMP_Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/openMP_Basics) | [MPI Basics](https://github.com/Wuydts/Parallel_Programming/tree/master/MPI) | [Matrix Multiplication](https://github.com/Wuydts/Parallel_Programming/tree/master/matrixMultiplication)
 
 ## Forking Basics Directory
 | Project | Directory | 
@@ -33,3 +33,18 @@ Collection of programming samples from when I was in my Parallel Programming cla
 |  openMP Reduce 2 - Tracking | [openMP Reduce 2 - Tracking](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/reduce2.c)|
 |  openMP Reduce 3 - Static Scheduling | [openMP Reduce 3 - Static Scheduling](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/reduce3.c)|
 |  openMP Odd-Even Transposition | [openMP Odd-Even_Transposition](https://github.com/Wuydts/Parallel_Programming/blob/master/openMP_Basics/Odd-Even_Transposition.c)|
+
+## MPI Basics Directory
+| Project | Directory |
+| - | - |
+|  MPI - First  | [MPI 1](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/onesendrec.c)|
+|  MPI - Part A  | [MPI Part A](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/mpiA.c)|
+|  MPI - Part B  | [MPI Part B](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/mpiB.c)|
+|  MPI - Part C  | [MPI Part C](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/mpiC.c)|
+
+## Matrix Multiplication Directory
+| Project | Directory |
+| - | - |
+|  Sequential Solution  | [Sequential Solution](https://github.com/Wuydts/Parallel_Programming/blob/master/matrixMultiplication/matrixMultiplicationSequential.c)|
+|  PThread Solution  | [PThread Solution](https://github.com/Wuydts/Parallel_Programming/blob/master/matrixMultiplication/matrixMultiplicationPThread.c)|
+|  openMP Solution  | [openMP Solution](https://github.com/Wuydts/Parallel_Programming/blob/master/matrixMultiplication/matrixMultiplicationopenMP.c|
