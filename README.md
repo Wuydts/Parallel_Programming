@@ -47,4 +47,4 @@ Collection of programming samples from when I was in my Parallel Programming cla
 | - | - |
 |  Sequential Solution  | [Sequential Solution](https://github.com/Wuydts/Parallel_Programming/blob/master/matrixMultiplication/matrixMultiplicationSequential.c)|
 |  PThread Solution  | [PThread Solution](https://github.com/Wuydts/Parallel_Programming/blob/master/matrixMultiplication/matrixMultiplicationPThread.c)|
-|  openMP Solution  | [openMP Solution](https://github.com/Wuydts/Parallel_Programming/blob/master/matrixMultiplication/matrixMultiplicationopenMP.c|
+|  openMP Solution  | [openMP Solution](https://github.com/Wuydts/Parallel_Programming/blob/master/matrixMultiplication/matrixMultiplicationopenMP.c)|
