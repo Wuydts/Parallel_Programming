@@ -41,7 +41,8 @@ Collection of programming samples from when I was in my Parallel Programming cla
 |  MPI - Part A  | [MPI Part A](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/mpiA.c)|
 |  MPI - Part B  | [MPI Part B](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/mpiB.c)|
 |  MPI - Part C  | [MPI Part C](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/mpiC.c)|
-
+|  MPI - Ring  | [MPI Ring](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/ringMessages.c)|
+|  MPI - Array Ring  | [MPI Array Ring](https://github.com/Wuydts/Parallel_Programming/blob/master/MPI/ringMessage2.c)|
 ## Matrix Multiplication Directory
 | Project | Directory |
 | - | - |
